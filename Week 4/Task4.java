@@ -1,4 +1,4 @@
-public class Task4z{
+public class Task4{
     public static void main(String[] args) {
         Fan fan1 = new Fan();
         Fan fan2 = new Fan(3, true, 10, "yellow");
